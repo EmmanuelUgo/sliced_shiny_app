@@ -1,0 +1,12 @@
+name: sliced
+title: sliced
+username:
+account: anuelugo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3814233
+bundleId: 4363716
+url: https://anuelugo.shinyapps.io/sliced/
+when: 1616074163.48812
+asMultiple: FALSE
+asStatic: FALSE
